@@ -18,13 +18,13 @@ body {
   line-height: 50px;
 }
 .text-inside {
-  line-height: 36 px;
+  line-height: 36px;
   text-align: center;
 }
 
 @media (max-width: 768px) {
   .text {
-    font-size: 28px;
+    font-size: 21px;
   }
 }
 .bubbles {
