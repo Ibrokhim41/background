@@ -14,9 +14,12 @@ body {
   align-items: center;
   font-size: 51px;
   color: #0a9396;
-  text-align: center;
   text-transform: uppercase;
   line-height: 50px;
+}
+.text-inside {
+  line-height: 36 px;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
